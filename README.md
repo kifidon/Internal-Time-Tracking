@@ -101,7 +101,7 @@ Access the app at `http://localhost:3000`
 ---
 
 ## **License**
-This project is proprietary and managed by **[Company Name]**. Unauthorized distribution is prohibited.
+This project refered to by this repository is proprietary and managed by **Hill Plain Construction**. Unauthorized distribution is prohibited.
 
 ---
 
